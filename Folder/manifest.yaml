@@ -8,12 +8,8 @@ sample:
   author: dend
   languages:
   - csharp
-  - vbnet
-  - fsharp
   technologies:
-  - office
-  - windows
-  - xbox
+  - azure
   extensions:
   - someExtensionEntry:
     - altEntry
