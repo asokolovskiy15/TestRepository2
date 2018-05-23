@@ -1,6 +1,6 @@
 ### YamlMime:Sample
 sample:
-- name: Using Azure APIs8
+- name: Using Azure APIs9
   description: A sample that shows how to use Azure APIs.
   generateZip: true
   azureDeploy: /path/to/template.json
