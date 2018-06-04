@@ -1,7 +1,7 @@
 ### YamlMime:Sample
 sample:
 - name: Using Azure APIs19
-  description: A sample that shows how to use Azure APIs. 8
+  description: A sample that shows how to use Azure APIs. 9
   generateZip: true
   azureDeploy: /path/to/template.json
   author: dend
