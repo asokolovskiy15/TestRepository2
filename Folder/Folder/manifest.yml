@@ -1,6 +1,6 @@
 ### YamlMime:Sample
 sample:
-- name: Using Azure APIs57
+- name: Using Azure APIs58
   description: A sample that shows how to use Azure APIs.
   generateZip: true
   azureDeploy: /path/to/template.json
