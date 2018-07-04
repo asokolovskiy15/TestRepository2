@@ -1,6 +1,7 @@
 ### YamlMime:Sample
 sample:
-- description: A sample that shows how to use Azure APIs.
+- name: Sample Name
+  description: A sample that shows how to use Azure APIs.
   image: /repo/root/rel/path/image.jpg
   generateZip: true
   extendedZipContent:
