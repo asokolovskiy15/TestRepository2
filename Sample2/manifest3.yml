@@ -3,7 +3,7 @@ sample:
 - name: Sample Name3
   description: A sample that shows how to use Azure APIs.
   image: /repo/root/rel/path/image.jpg
-  generateZip: true
+  generateZip: false
   extendedZipContent:
   - path: /
     target: /
